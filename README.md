@@ -1,5 +1,5 @@
 # React Native Subject Annotator
-Hackalicious [React Native](https://facebook.github.io/react-native/) app for annotating subjects. Currently pretty fudgey, but runs on Android and iOS.
+[React Native](https://facebook.github.io/react-native/) app for annotating subjects. Thrown together on our January 2016 hackday
 
 ## Requirements
 ### General
